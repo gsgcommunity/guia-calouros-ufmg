@@ -1,9 +1,11 @@
 title: SURVIVAL GUIDE
 author: Girls Support Girls 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Girls Support Girls: É um coletivo de garotas estudantes do Departamento de 
+  Ciência da Computação (Matemática Computacional, Sistemas de Informação e Ciência
+  da Computação) que tem o objetivo de tornar a computação cada vez mais acessível 
+  para todas as pessoas. Incentivando e dando suporte principalmente as garotas estudantes
+  na área STEM (Science, technology, engineering, and mathematics). 
 
 # social links
 show_excerpts: true # set to false to remove excerpts on the homepage
