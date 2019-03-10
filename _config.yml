@@ -7,9 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   para todas as pessoas. Incentivando e dando suporte principalmente as garotas estudantes
   na área STEM (Science, technology, engineering, and mathematics). 
 
-# social links 
-github_username: girls-support-girls
-
+# social links
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: jekyll-theme-minimal
