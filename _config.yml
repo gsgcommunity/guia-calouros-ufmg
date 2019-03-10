@@ -8,12 +8,15 @@ description: > # this means to ignore newlines until "baseurl:"
   na área STEM (Science, technology, engineering, and mathematics). 
 
 # social links
-# social links
-twitter_username: 
-github_username: 
-instagram_username: 
-facebook_username: https://www.facebook.com/groups/girlssupportgirls.ufmg/
+# social links 
+github_username: mirianfsilva 
+github_username: Valerieps
+github_username: girls-support-girls
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
